@@ -6,7 +6,7 @@
 
 React frontend for the Legal Document Intelligence Agent. Upload legal documents, ask questions in plain language, and view RAGAS evaluation metrics.
 
-**Demo:** [Watch Demo]([https://www.youtube.com/watch?v=s2y2ual-MF0](https://youtu.be/8xvRmtp8WAc))  
+**Demo:** [Watch Demo](https://youtu.be/8xvRmtp8WAc)  
 **Backend Repo:** https://github.com/anaghakalyanaraman/legal-agent-api
 
 ---
