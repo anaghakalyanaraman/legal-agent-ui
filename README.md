@@ -1,4 +1,4 @@
-```markdown
+
 # Legal Document Intelligence — UI
 
 React frontend for the Legal Document Intelligence Agent. Upload legal documents, ask questions in plain language, and view RAGAS evaluation metrics.
